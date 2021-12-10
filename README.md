@@ -12,7 +12,7 @@
 
 ## Deployed Link
 
-https://glewis67.github.io/Work-Day-Scheduler
+https://glewis67.github.io/work-day-scheduler/
 
 ## Table of Contents
 
