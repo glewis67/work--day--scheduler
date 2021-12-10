@@ -8,7 +8,7 @@
 
 ## Desktop
 
-![Alt test](/images/.png)
+![Alt test](/images/wds.png)
 
 ## Deployed Link
 
@@ -48,7 +48,7 @@ To install no necessery dependencies just follow the url link.
 * When the event is planned for that specific hour it is blocked out by colored coded.
 * The page can  be save, refreash and written in.
 
-## Questions
+## Questionshem
 
 For any questions regarding this application please reach out to: denen2@yahoo.com
 
